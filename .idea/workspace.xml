@@ -1,38 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2b308a55-b4dc-4b54-a93a-4940334b0f8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/GraphTraversal/BFS/BJ_1926/BJ_1926.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphTraversal/BFS/BJ_1926/BJ_1926_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphTraversal/DFS/BJ_2667/BJ_2667.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphTraversal/DFS/BJ_2667/BJ_2667_practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/coding-test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph Traversal/BFS/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph Traversal/BFS/.idea/BFS.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph Traversal/BFS/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph Traversal/BFS/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph Traversal/BFS/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph Traversal/BFS/BJ_1926/BJ_1926.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph Traversal/BFS/BJ_1926/BJ_1926_Practice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph Traversal/DFS/BJ_2667/BJ_2667.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph Traversal/DFS/BJ_2667/BJ_2667_practice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph Traversal/Graph Traversal.rtf" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackTracking/BJ_15649/BJ_15649.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2uwailCpGe6MRt4giUioGv8Km2A" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.BJ_15649.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/pra/Project/Ria/algorithm"
