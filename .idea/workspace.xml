@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b308a55-b4dc-4b54-a93a-4940334b0f8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BackTracking/BJ_15649/BJ_15649.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackTracking/BJ_15649/BJ_15649_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackTracking/BJ_15650/BJ_15650.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +28,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2uwailCpGe6MRt4giUioGv8Km2A" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,6 +38,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.BJ_15649.executor": "Run",
+    "Python.BJ_15649_1.executor": "Run",
+    "Python.BJ_15650.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/pra/Project/Ria/algorithm"
