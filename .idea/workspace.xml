@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b308a55-b4dc-4b54-a93a-4940334b0f8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Simulation/BJ_14503/BJ_14503.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simulation/BJ_14503/BJ_14503_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TwoPointer/BJ_2559/BJ_2559.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TwoPointer/BJ_2559/BJ_2559_practice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +44,7 @@
     "Python.BJ_15649.executor": "Run",
     "Python.BJ_15649_1.executor": "Run",
     "Python.BJ_15650.executor": "Run",
+    "Python.BJ_2559.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/pra/Project/Ria/algorithm"
