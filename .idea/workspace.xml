@@ -34,31 +34,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.BJ_11047.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BJ_11047_practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BJ_11726.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BJ_11726_practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BJ_1197.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BJ_1197_practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BJ_1260.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BJ_1260_practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BJ_14503.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BJ_14503_practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BJ_15649.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BJ_15649_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BJ_15650.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BJ_1753.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BJ_1920.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BJ_1920_practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BJ_2559.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BJ_2559_practice.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/pra/Project/Ria/algorithm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.BJ_11047.executor": "Run",
+    "Python.BJ_11047_practice.executor": "Run",
+    "Python.BJ_11726.executor": "Run",
+    "Python.BJ_11726_practice.executor": "Run",
+    "Python.BJ_1197.executor": "Run",
+    "Python.BJ_1197_practice.executor": "Run",
+    "Python.BJ_1260.executor": "Run",
+    "Python.BJ_1260_practice.executor": "Run",
+    "Python.BJ_14503.executor": "Run",
+    "Python.BJ_14503_practice.executor": "Run",
+    "Python.BJ_15649.executor": "Run",
+    "Python.BJ_15649_1.executor": "Run",
+    "Python.BJ_15650.executor": "Run",
+    "Python.BJ_1753.executor": "Run",
+    "Python.BJ_1753_practice.executor": "Run",
+    "Python.BJ_1920.executor": "Run",
+    "Python.BJ_1920_practice.executor": "Run",
+    "Python.BJ_2559.executor": "Run",
+    "Python.BJ_2559_practice.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/pra/Project/Ria/algorithm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/MST/BJ_1197" />
