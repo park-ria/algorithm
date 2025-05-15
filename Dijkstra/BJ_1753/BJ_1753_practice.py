@@ -19,7 +19,7 @@ heap = [[0, K]]
 
 while heap:
     ew, ev = heapq.heappop(heap)
-    if dist[ev] != ew: #오답 이해 못했었음
+    if dist[ev] != ew: #오답 이해 못했었음 : 다익스트라는 최소 거리부터 순차적으로 처리하므로 dist[ev] > ew가 발생하지 않음
         continue
     for nw, nv in edge[ev]:
         if dist[nv] > ew + nw:
