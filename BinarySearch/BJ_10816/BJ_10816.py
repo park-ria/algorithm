@@ -7,7 +7,6 @@ M = int(input())
 targetList = list(map(int, input().split()))
 resultList = [0] * M
 
-
 def search(start, end, target, index):
     if start > end:
         return
@@ -22,6 +21,3 @@ for index, target in enumerate(targetList):
     search(0, N-1, target, index)
 
 print(*resultList)
-
-# for result in resultList:
-#     print(' '.join(map(str, result)))
