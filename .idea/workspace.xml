@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b308a55-b4dc-4b54-a93a-4940334b0f8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BinarySearch/BJ_10816/BJ_10816_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/BJ_2805/BJ_2805.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,7 @@
     "Python.BJ_1920_practice.executor": "Run",
     "Python.BJ_2559.executor": "Run",
     "Python.BJ_2559_practice.executor": "Run",
+    "Python.BJ_2805.executor": "Run",
     "Python.binary.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
