@@ -7,14 +7,14 @@ tree = list(map(int, input().split()))
 start, end = 0, max(tree)
 
 while start <= end:
-    sum = 0
+    hSum = 0
     mid = (start + end) // 2
 
     for height in tree:
         if height > mid:
-            sum += height - mid
+            hSum += height - mid
 
-    if sum < m:
+    if hSum < m:
         end = mid - 1
     else:
         start = mid + 1
