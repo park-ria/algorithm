@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b308a55-b4dc-4b54-a93a-4940334b0f8f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/GraphTraversal/BFS/BJ_1926/bfs_1926.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GraphTraversal/BFS/BJ_1260/1260.py" beforeDir="false" afterPath="$PROJECT_DIR$/GraphTraversal/BFS/BJ_1260/1260.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphTraversal/BFS/BJ_1926/BJ_1926_practice.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +61,7 @@
     "Python.BJ_2559.executor": "Run",
     "Python.BJ_2559_practice.executor": "Run",
     "Python.BJ_2805.executor": "Run",
+    "Python.bfs_1926.executor": "Run",
     "Python.binary.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
