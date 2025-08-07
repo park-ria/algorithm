@@ -7,3 +7,18 @@ print(visited)
 
 dy = [0,1,0,-1]
 dx = [1,0,-1,0]
+
+def bfs(y, x):
+    rs = 1
+    q = [(y,x)]
+    while q :
+        ey, ex = q.pop()
+        for k in range(4):
+            ny = ey + dy[k]
+            nx = ex + dx[k]
+            if 0<=ny<n and 0<=nx<m:
+                if map[ny][nx] == 1 and visited[ny][nx] == False:
+                    rs += 1
+                    visited[ny][nx] = True
+                    q.append((ny,nx))
+    return rs
